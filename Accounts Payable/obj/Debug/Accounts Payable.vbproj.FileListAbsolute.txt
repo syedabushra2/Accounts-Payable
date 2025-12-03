@@ -1,0 +1,13 @@
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\bin\Debug\Accounts Payable.exe.config
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\bin\Debug\Accounts Payable.exe
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\bin\Debug\Accounts Payable.pdb
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\bin\Debug\Accounts Payable.xml
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.vbproj.AssemblyReference.cache
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts_Payable.Form1.resources
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts_Payable.Resources.resources
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.vbproj.GenerateResource.cache
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.vbproj.CoreCompileInputs.cache
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.exe
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.xml
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.pdb
+C:\Users\aysha\OneDrive - Wright State University\MIS 1150 PROJECTS - Copy\Accounts Payable\obj\Debug\Accounts Payable.exe.config
